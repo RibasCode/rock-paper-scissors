@@ -39,7 +39,7 @@ body{
 
 section{
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     background-color: var(--primaryBackgroundColor);
     font-family: sans-serif;
 }
