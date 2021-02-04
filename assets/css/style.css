@@ -305,7 +305,29 @@ div.fadeIn{
     /*--------------------------------------------------------------
     # header - Tablet
     --------------------------------------------------------------*/
+    
+    .score h2{
+        font-size: 20px;
+        margin-top: 50px;
+    }
 
+    .winner{
+        font-size: 35px;
+        margin-top: 50px;
+    }
+    
+    .hands img{
+        height: 200px;
+    }
+
+    .options button{
+        height: 100px;
+        width: 100px;
+    }
+
+    .rock img{
+        height: 50px;
+    }
 
 }
 
