@@ -306,6 +306,14 @@ div.fadeIn{
     # header - Tablet
     --------------------------------------------------------------*/
     
+    .intro h1{
+        font-size: 30px;
+    }
+
+    .intro h1 span{
+        font-size: 15px;
+    }
+    
     .score h2{
         font-size: 20px;
         margin-top: 50px;
