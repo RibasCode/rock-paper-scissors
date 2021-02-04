@@ -126,8 +126,8 @@ h1 span {
 }
 
 .match button{
-    width: 110px;
-    height: 110px;
+    width: 100px;
+    height: 100px;
 
     margin: 0px 15px;
     margin-top: 50px;
@@ -165,7 +165,7 @@ button img{
 }
 
 .rock img{
-    height: 50px;
+    height: 47px;
 }
 
 .match{
